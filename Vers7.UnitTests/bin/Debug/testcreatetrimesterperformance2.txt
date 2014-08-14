@@ -1,0 +1,4 @@
+2012 May Y1T1 dog
+UECS1111:  Subject1 : 36
+
+Gives an error, the first line should only be year, month and trimester

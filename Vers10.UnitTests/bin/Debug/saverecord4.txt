@@ -1,0 +1,22 @@
+Wendy Lim
+SE20001
+female
+Wendy Lim@gmail.com
+1234567890
+SE
+120
+ 
+*TRIMESTER START*
+2014 JAN Y1T1
+UECS1101 : somename : 45
+UECS1102 : somename : 55
+UECS1103 : somename : 65
+*TRIMESTER END*
+ 
+*TRIMESTER START*
+2014 MAY Y1T2
+UECS1201 : somename : 70
+UECS1202 : somename : 80
+UECS1203 : somename : 90
+*TRIMESTER END*
+ 

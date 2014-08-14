@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\testcode\CompleteApplication\Vers7.UnitTests\bin\Debug\Vers7.UnitTests.dll" total="91" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-03-30" time="10:08:41">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\Program Files\NUnit 2.6.3\bin" machine-name="SPEEDMAN" user="User" user-domain="SPEEDMAN" />
+  <culture-info current-culture="en-MY" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\testcode\CompleteApplication\Vers7.UnitTests\bin\Debug\Vers7.UnitTests.dll" executed="True" result="Success" success="True" time="0.231" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Vers7" executed="True" result="Success" success="True" time="0.226" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="0.226" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="DataAnalyzerTests" executed="True" result="Success" success="True" time="0.033" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.DataAnalyzerTests.GetUnitStatsForTrimester_CombinationOfDifferentMarks" executed="True" result="Success" success="True" time="0.016" asserts="22" />
+                  <test-case name="Vers7.UnitTests.DataAnalyzerTests.GetUnitStatsForTrimester_NullArgument_Exception" executed="True" result="Success" success="True" time="0.011" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="FileOperationsTests" executed="True" result="Success" success="True" time="0.070" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.ChangeStudentRecordToStrings_PassNullValue" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.ChangeStudentRecordToStrings_SampleFromFile" executed="True" result="Success" success="True" time="0.007" asserts="23" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.ChangeTrimesterPerformanceToStrings_PassNullValue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.ChangeTrimesterPerformanceToStrings_SampleFromFile" executed="True" result="Success" success="True" time="0.001" asserts="7" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateStudentRecord_ErrorWithGenderAndCreditHour_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateStudentRecord_InsuffientInfoToCreateRecord_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateStudentRecord_NormalRecordWith2Trimesters_NoException" executed="True" result="Success" success="True" time="0.001" asserts="31" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateStudentRecord_NullStringList_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_3NormalEntries_NoException" executed="True" result="Success" success="True" time="0.006" asserts="31" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_IncorrectCreditHours_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_InvalidCampuses_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_InvalidCourseworkComponent_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_InvalidNumberArguments_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_InvalidTrimesters_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_InvalidUnitClassification_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_MultipleErrors1_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_MultipleErrors2_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_NullStringList_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateSubjectList_UnitCodeMissing_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateTrimesterPerformance_ErrorInYearMonthAndTrimester_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateTrimesterPerformance_FirstLineIncorrect_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateTrimesterPerformance_InvalidMark_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateTrimesterPerformance_InvalidUnitGrade_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateTrimesterPerformance_NormalTrimester_NoException" executed="True" result="Success" success="True" time="0.001" asserts="18" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.CreateTrimesterPerformance_NullStringList_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.ReadStringsFromFile_DummyFile" executed="True" result="Success" success="True" time="0.000" asserts="7" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.ReadStringsFromFile_NullFileName_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.WriteStringsToFile_DummyFile" executed="True" result="Success" success="True" time="0.002" asserts="5" />
+                  <test-case name="Vers7.UnitTests.FileOperationsTests.WriteStringsToFile_NullList_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="GradingSchemeResultsTests" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.GradingSchemeResultsTests.AddStudentMark_InvalidMarkValue_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.GradingSchemeResultsTests.AddStudentMark_InvalidStringValues_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.GradingSchemeResultsTests.CalculateOverallResults_CombinationOfDifferentMarks" executed="True" result="Success" success="True" time="0.000" asserts="22" />
+                  <test-case name="Vers7.UnitTests.GradingSchemeResultsTests.CalculateOverallResults_NoMarksAdded" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="GradingSchemeUnitTests" executed="True" result="Success" success="True" time="0.008" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.GradingSchemeUnitTests.GradingScheme_ArgumentsNull_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.GradingSchemeUnitTests.GradingScheme_NoArgumentConstructor" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.GradingSchemeUnitTests.GradingScheme_PassArraysOfDifferentLengths1_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.GradingSchemeUnitTests.GradingScheme_PassArraysOfDifferentLengths2_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.GradingSchemeUnitTests.GradingScheme_PassGradeRangesArrayInAscendingOrder" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.GradingSchemeUnitTests.GradingScheme_PassGradeRangesArrayNotInAscendingOrder_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="StudentRecordTests" executed="True" result="Success" success="True" time="0.032" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CalculateCGPAOverall_TrimestersWithRepeatedUnits" executed="True" result="Success" success="True" time="0.003" asserts="8" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckAcademicStatus_TestSequence1" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckAcademicStatus_TestSequence2" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckForRepeatedUnits_TrimestersWithOneRepeatedUnit" executed="True" result="Success" success="True" time="0.001" asserts="14" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckForRepeatedUnits_TrimestersWithoutAnyRepeatedUnits" executed="True" result="Success" success="True" time="0.000" asserts="12" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckForRepeatedUnits_TrimestersWithTwoRepeatedUnits" executed="True" result="Success" success="True" time="0.001" asserts="17" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckPrerequisites_NullStudyList_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListCombinationNonExistentAndFailedPrerequisites_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListWithMultipleFailedPrerequisites_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListWithMultipleNonExistingPrerequisites_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListWithMultiplePrerequisitesMet_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListWithoutPrerequisites_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.VerifyTrimesterOrder_CompleteTrimestersSequence_NoException" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.VerifyTrimesterOrder_NullTrimesterList_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.VerifyTrimesterOrder_OneItemOutOfOrderInTrimesterList_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.VerifyTrimesterOrder_SingleItemInTrimesterList_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudentRecordTests.VerifyTrimesterOrder_YearMonthAndTrimesterOutOfOrderInTrimesterList_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="StudyUnitTests" executed="True" result="Success" success="True" time="0.033" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2SameUnitCodes_1ErrorMessage" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2TypesOfRepeatedSameUnitCodes_2ErrorMessages" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2TypesOfSameUnitCodes_2ErrorMessages" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith3TypesOfSameUnitCodes_3ErrorMessages" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith4SameUnitCodes_1ErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithEmptyList_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithNullList_ErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithOneUnitCode_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_NoPrerequisites_NoException" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_OnePrerequisiteIdentical_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_OnePrerequisiteSatisfied_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_PrerequisiteNotSatisfiedForListOne_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_PrerequisiteNotSatisfiedForListTwo_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_TestWithNullList_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.StudyUnitTests.Equals_TestWithDifferentObjectType" executed="True" result="Success" success="True" time="0.003" asserts="4" />
+                  <test-suite type="ParameterizedTest" name="Equals_TestWithSameObjectType" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                    <results>
+                      <test-case name="Vers7.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;UECS8887&quot;,&quot;something else&quot;,10,compulsory,50,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Vers7.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;uECS8888&quot;,&quot;lucky subject&quot;,10,major,50,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Vers7.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;UECS8888&quot;,&quot;bad subject&quot;,15,elective,20,True)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="TestDataGeneratorTests" executed="True" result="Success" success="True" time="0.005" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.TestDataGeneratorTests.GenerateStudentRecords_NullArguments_Exception" executed="True" result="Success" success="True" time="0.002" asserts="0" />
+                  <test-case name="Vers7.UnitTests.TestDataGeneratorTests.GenerateStudentRecords_ZeroAndTwoSampleRecords" executed="True" result="Success" success="True" time="0.002" asserts="52" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="TrimesterPerformanceTests" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.TrimesterPerformanceTests.CalculateGrades_TrimesterWithoutRepeatedUnits" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                  <test-case name="Vers7.UnitTests.TrimesterPerformanceTests.CalculateGrades_TrimesterWithRepeatedUnits" executed="True" result="Success" success="True" time="0.001" asserts="9" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="UndergradUnitTests" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.UndergradUnitTests.CheckValidCreditHour_CreditHrsAtBoundary_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.UndergradUnitTests.CheckValidCreditHour_CreditHrsWithinRange_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers7.UnitTests.UndergradUnitTests.CheckValidCreditHour_InvalidCreditHrs_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.UndergradUnitTests.CheckValidCreditHour_TestNull_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="UnitGradeTests" executed="True" result="Success" success="True" time="0.012" asserts="0">
+                <results>
+                  <test-case name="Vers7.UnitTests.UnitGradeTests.CalculateGrade_UseDefaultValues_NoException" executed="True" result="Success" success="True" time="0.001" asserts="32" />
+                  <test-case name="Vers7.UnitTests.UnitGradeTests.CalculateGrade_UseUserDefinedValues_NoException" executed="True" result="Success" success="True" time="0.001" asserts="14" />
+                  <test-case name="Vers7.UnitTests.UnitGradeTests.Equals_TestWithDifferentObjectType" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                  <test-suite type="ParameterizedTest" name="Equals_TestWithSameObjectType" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                    <results>
+                      <test-case name="Vers7.UnitTests.UnitGradeTests.Equals_TestWithSameObjectType(&quot;uECS8888&quot;,&quot;lucky subject&quot;,10,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Vers7.UnitTests.UnitGradeTests.Equals_TestWithSameObjectType(&quot;UECS8888&quot;,&quot;bad subject&quot;,20,True)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-case name="Vers7.UnitTests.UnitGradeTests.UnitGrade_MarkInvalidValue_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers7.UnitTests.UnitGradeTests.UnitGrade_UnitCodeInvalidValue_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,26 @@
+dummy
+12345
+male
+ahmad@gmail.com
+012-44444
+SE
+120
+
+*TRIMESTER START*
+2014 Jan Y1T1
+
+UECS1101 :  somename : 36
+UECS1102 :  somename : 55
+UECS1103 :  somename : 76
+*TRIMESTER END*
+
+
+*TRIMESTER START*
+
+2014 May Y1T2
+
+UECS1201 :  somename  : 82
+UECS1202 :  somename  : 90
+UECS1203 :  somename  : 57
+*TRIMESTER END*
+

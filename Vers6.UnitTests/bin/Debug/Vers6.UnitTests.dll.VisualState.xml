@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1073]D:\testcode\CompleteApplication\Vers6.UnitTests\bin\Debug\Vers6.UnitTests.dll</TopNode>
+  <SelectedNode>[0-1073]D:\testcode\CompleteApplication\Vers6.UnitTests\bin\Debug\Vers6.UnitTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1073]D:\testcode\CompleteApplication\Vers6.UnitTests\bin\Debug\Vers6.UnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1074]Vers6" Expanded="true" />
+    <Node UniqueName="[0-1075]Vers6.UnitTests" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1023]D:\testcode\CompleteApplication\Vers2.UnitTests\bin\Debug\Vers2.UnitTests.dll</TopNode>
+  <SelectedNode>[0-1000]Vers2.UnitTests.StudyUnitTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1023]D:\testcode\CompleteApplication\Vers2.UnitTests\bin\Debug\Vers2.UnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1024]Vers2" Expanded="true" />
+    <Node UniqueName="[0-1025]Vers2.UnitTests" Expanded="true" />
+    <Node UniqueName="[0-1000]Vers2.UnitTests.StudyUnitTests" Expanded="true" />
+    <Node UniqueName="[0-1001]Vers2.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType" Expanded="true" />
+  </Nodes>
+</VisualState>

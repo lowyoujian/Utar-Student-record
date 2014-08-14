@@ -1,0 +1,50 @@
+UECS1004 :  Programming and Problem Solving : : 4 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS1044 :  Object-Oriented Application Development : : 4 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS1203 :  Database System Fundamentals : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS1033 :  Data Communications and Networks : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS1013 :  Introduction to Computer Organisation and Architecture : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECM1673 :  Mathematics for Computing : UECS1013 UECS1033 : 3 : Major : Y3T3 Y2T1 : FES : SE: 40 : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS1313 :  Software and Requirements : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2333 :  Human Computer Interaction Design : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2344 :  Software Design : : 4 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2354 :  Software Testing : UECS1013 UECS1033: 4 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2363 :  Software Construction and Configuration : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2373 :  Team Project : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS3383 :  Software Quality Assurance : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2094 :  Web Application Development : : 4 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2083 :  Problem Solving with Data Structures and Algorithms : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2074  :  Advanced Programming Techniques  : : 4 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2103 :  Operating Systems  : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2033 :   Software Project Management  : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS3393 :   Software Entrepreneurship  : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS2596  :  Industrial Training  : : 6 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS3583 :   Project I  : : 3 : Major : Y3T3 Y2T1 : FES : SE: 40
+UECS3596  :  Project II  : : 6 : Major : Y3T3 Y2T1 : FES : SE: 40
+
+UEEN2013 : TCP/IP Internetworking : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS2023 : Multimedia Technology  : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS2053 : Artificial Intelligence : UECM1673 : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS2233 : Electronic Commerce  : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS3043 : Parallel Processing  : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS3113 : Distributed Computer Systems  : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS3203 : Advanced Database Systems : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS3213 : Data Mining : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS3233 : Multimedia Design and Application Development  : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS3253 : Wireless Application Development : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UECS3223 : Cloud Computing : : 3 : MajorElective : Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+
+
+UALE1083 : Basic Professional Writing : : 3 : Elective : Y1T2 Y1T3 Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UALL3033 : Public Speaking and Oral Presentation : : 3 : Elective : Y1T2 Y1T3 Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UJMG1043 : Interpersonal Communication: : 3 : Elective : Y1T2 Y1T3 Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UALL1063 : Oral Communication & Interpersonal Skills : : 3 : Elective : Y1T2 Y1T3 Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UBMM1013 : Management Principles: : 3 : Elective : Y1T2 Y1T3 Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+
+
+MPU32013 : Bahasa Kebangsaan : : 3 : Compulsory : Y1T2 : FES : SE: 40
+MPU3113 : Hubungan Etnik : : 3 : Compulsory : Y1T2 : FES : SE: 40
+MPU3123  : Tamadun Islam dan Tamadun Asia : : 3 : Compulsory  : Y1T2 Y1T3 : FES : SE: 40
+MPU32033 :   English for Professionals : : 3 : Compulsory  : Y1T2 Y1T3 Y2T1 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+UKMM1011 :   Sun Zi’s Art of War and Business Strategies: : 1 : uniunit : Y2T2 Y2T3 Y3T1 : FES : SE: 40
+MPU33213 :   Computer Ethics and Professional Responsibility : : 3 : Compulsory : Y1T2 Y2T2 Y2T3 Y3T1 : FES : SE: 40
+MPU34332 : Co-curricular unit : : 2 : uniunit : Y1T2 Y1T3 : FES : SE: 40

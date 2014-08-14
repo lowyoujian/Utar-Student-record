@@ -1,0 +1,4 @@
+cat dog  mouse    
+UECS1111:  Subject1 : 36
+
+Gives 3 errors, the year, month and trimester are all specified incorrectly

@@ -1,0 +1,10 @@
+Christopher
+BD12343DET
+car
+muthu@gmail.com
+01437283423
+SE
+sdfsdf
+
+
+This gives error messages for the gender (which should either be male or female), and credit hours which should be numeric

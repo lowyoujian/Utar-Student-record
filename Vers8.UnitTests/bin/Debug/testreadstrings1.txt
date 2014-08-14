@@ -1,0 +1,7 @@
+dog
+cat
+mouse
+
+bus
+car
+airplane

@@ -1,0 +1,5 @@
+2012 May Y1T1
+UECS1111   :  Subject1 : dog 
+
+
+Gives an error, the last component is a mark and must be numeric

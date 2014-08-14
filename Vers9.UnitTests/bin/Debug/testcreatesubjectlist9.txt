@@ -1,0 +1,4 @@
+UECS1111 :  Subject1 : : dog : mouse : Y1T6 Y2T5 : FES FCI : SE: 40
+
+
+Test on this should fail for several reasons: credit hours is not numeric, unit is not classified properly, and trimesters are not valid.

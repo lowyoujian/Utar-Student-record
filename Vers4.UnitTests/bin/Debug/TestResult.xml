@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\testcode\CompleteApplication\Vers4.UnitTests\bin\Debug\Vers4.UnitTests.dll" total="53" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-04-03" time="14:10:13">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="UTAR-ACER" user="victor" user-domain="utar-acer" />
+  <culture-info current-culture="en-MY" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\testcode\CompleteApplication\Vers4.UnitTests\bin\Debug\Vers4.UnitTests.dll" executed="True" result="Success" success="True" time="0.345" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Vers4" executed="True" result="Success" success="True" time="0.344" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="0.343" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="GradingSchemeUnitTests" executed="True" result="Success" success="True" time="0.036" asserts="0">
+                <results>
+                  <test-case name="Vers4.UnitTests.GradingSchemeUnitTests.GradingScheme_ArgumentsNull_Exception" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                  <test-case name="Vers4.UnitTests.GradingSchemeUnitTests.GradingScheme_NoArgumentConstructor" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.GradingSchemeUnitTests.GradingScheme_PassArraysOfDifferentLengths1_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.GradingSchemeUnitTests.GradingScheme_PassArraysOfDifferentLengths2_Exception" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                  <test-case name="Vers4.UnitTests.GradingSchemeUnitTests.GradingScheme_PassGradeRangesArrayInAscendingOrder" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.GradingSchemeUnitTests.GradingScheme_PassGradeRangesArrayNotInAscendingOrder_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="StudentRecordTests" executed="True" result="Success" success="True" time="0.081" asserts="0">
+                <results>
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckForRepeatedUnits_TrimestersWithOneRepeatedUnit" executed="True" result="Success" success="True" time="0.000" asserts="14" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckForRepeatedUnits_TrimestersWithoutAnyRepeatedUnits" executed="True" result="Success" success="True" time="0.000" asserts="12" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckForRepeatedUnits_TrimestersWithTwoRepeatedUnits" executed="True" result="Success" success="True" time="0.000" asserts="17" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckPrerequisites_NullStudyList_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListCombinationNonExistentAndFailedPrerequisites_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListWithMultipleFailedPrerequisites_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListWithMultipleNonExistingPrerequisites_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListWithMultiplePrerequisitesMet_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckPrerequisites_StudyListWithoutPrerequisites_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.CheckPrerequisites_TestWithEmptyList_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.VerifyTrimesterOrder_CompleteTrimestersSequence_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.VerifyTrimesterOrder_NullTrimesterList_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.VerifyTrimesterOrder_OneItemOutOfOrderInTrimesterList_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.VerifyTrimesterOrder_SingleItemInTrimesterList_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudentRecordTests.VerifyTrimesterOrder_YearMonthAndTrimesterOutOfOrderInTrimesterList_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="StudyUnitTests" executed="True" result="Success" success="True" time="0.130" asserts="0">
+                <results>
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2SameUnitCodes_1ErrorMessage" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2TypesOfRepeatedSameUnitCodes_2ErrorMessages" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2TypesOfSameUnitCodes_2ErrorMessages" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith3TypesOfSameUnitCodes_3ErrorMessages" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith4SameUnitCodes_1ErrorMessage" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithEmptyList_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithNullList_ErrorMessage" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithOneUnitCode_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithThreeUniqueUnitCodes_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_NoPrerequisites_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_OnePrerequisiteIdentical_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_OnePrerequisiteSatisfied_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_PrerequisiteNotSatisfiedForListOne_Exception" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_PrerequisiteNotSatisfiedForListTwo_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_TestWithEmptyList_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_TestWithNullList_Exception" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_TwoOrMorePrerequisiteSatisfied_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.StudyUnitTests.Equals_TestWithDifferentObjectType" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                  <test-suite type="ParameterizedTest" name="Equals_TestWithSameObjectType" executed="True" result="Success" success="True" time="0.010" asserts="0">
+                    <results>
+                      <test-case name="Vers4.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;UECS8887&quot;,&quot;something else&quot;,10,compulsory,50,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Vers4.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;uECS8888&quot;,&quot;lucky subject&quot;,10,major,50,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Vers4.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;UECS8888&quot;,&quot;bad subject&quot;,15,elective,20,True)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="UndergradUnitTests" executed="True" result="Success" success="True" time="0.025" asserts="0">
+                <results>
+                  <test-case name="Vers4.UnitTests.UndergradUnitTests.CheckValidCreditHour_CreditHrsAtBoundary_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.UndergradUnitTests.CheckValidCreditHour_CreditHrsWithinRange_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers4.UnitTests.UndergradUnitTests.CheckValidCreditHour_InvalidCreditHrs_Exception" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                  <test-case name="Vers4.UnitTests.UndergradUnitTests.CheckValidCreditHour_TestNull_Exception" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="UnitGradeTests" executed="True" result="Success" success="True" time="0.039" asserts="0">
+                <results>
+                  <test-case name="Vers4.UnitTests.UnitGradeTests.CalculateGrade_UseDefaultValues_NoException" executed="True" result="Success" success="True" time="0.000" asserts="32" />
+                  <test-case name="Vers4.UnitTests.UnitGradeTests.CalculateGrade_UseUserDefinedValues_NoException" executed="True" result="Success" success="True" time="0.000" asserts="14" />
+                  <test-case name="Vers4.UnitTests.UnitGradeTests.Equals_TestWithDifferentObjectType" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                  <test-suite type="ParameterizedTest" name="Equals_TestWithSameObjectType" executed="True" result="Success" success="True" time="0.007" asserts="0">
+                    <results>
+                      <test-case name="Vers4.UnitTests.UnitGradeTests.Equals_TestWithSameObjectType(&quot;UECS8888&quot;,&quot;bad subject&quot;,20,True)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Vers4.UnitTests.UnitGradeTests.Equals_TestWithSameObjectType(&quot;uECS8888&quot;,&quot;lucky subject&quot;,10,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-case name="Vers4.UnitTests.UnitGradeTests.UnitGrade_MarkInvalidValue_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                  <test-case name="Vers4.UnitTests.UnitGradeTests.UnitGrade_UnitCodeInvalidValue_Exception" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

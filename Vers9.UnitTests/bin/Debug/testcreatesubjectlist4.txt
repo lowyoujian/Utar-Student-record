@@ -1,0 +1,3 @@
+UECS1111 :  Subject1 : : dog : compulsory : Y1T1 : FES FCI : SE  : 40
+
+Test on this should fail because the credit hours must be numeric value

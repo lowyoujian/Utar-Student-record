@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1103]D:\testcode\CompleteApplication\Vers7.UnitTests\bin\Debug\Vers7.UnitTests.dll</TopNode>
+  <SelectedNode>[0-1103]D:\testcode\CompleteApplication\Vers7.UnitTests\bin\Debug\Vers7.UnitTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1103]D:\testcode\CompleteApplication\Vers7.UnitTests\bin\Debug\Vers7.UnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1104]Vers7" Expanded="true" />
+    <Node UniqueName="[0-1105]Vers7.UnitTests" Expanded="true" />
+    <Node UniqueName="[0-1073]Vers7.UnitTests.FileOperationsTests" Expanded="true" />
+    <Node UniqueName="[0-1070]Vers7.UnitTests.TestDataGeneratorTests" Expanded="true" />
+    <Node UniqueName="[0-1032]Vers7.UnitTests.UnitGradeTests" Expanded="true" />
+  </Nodes>
+</VisualState>

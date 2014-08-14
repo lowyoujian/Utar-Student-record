@@ -1,0 +1,4 @@
+UECS1111 :  Subject1 : : 4 : compulsory : Y1T1 Y2T1 : FDFD FCI : SE: dog
+
+
+Test on this should fail for 2 reasons: campuses not valid and coursework component is not numeric

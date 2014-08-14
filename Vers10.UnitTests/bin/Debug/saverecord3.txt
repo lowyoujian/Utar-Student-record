@@ -1,0 +1,22 @@
+Roger Lee
+SE10000
+male
+Roger Lee@gmail.com
+1234567890
+SE
+120
+ 
+*TRIMESTER START*
+2014 JAN Y1T1
+UECS1101 : somename : 55
+UECS1102 : somename : 65
+UECS1103 : somename : 75
+*TRIMESTER END*
+ 
+*TRIMESTER START*
+2014 MAY Y1T2
+UECS1201 : somename : 60
+UECS1202 : somename : 70
+UECS1203 : somename : 80
+*TRIMESTER END*
+ 

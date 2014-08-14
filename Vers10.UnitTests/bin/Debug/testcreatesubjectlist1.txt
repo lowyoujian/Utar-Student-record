@@ -1,0 +1,3 @@
+UECS1111 :  Subject1 : : 4 : compulsory : Y1T1 Y2T1 : FES FCI : SE: 40
+UECS2222 :  Subject2 : UECS4444 UECS5555 : 4 : Elective : Y3T3 Y2T2 : FES : SE: 30
+UECS3333 :  Subject3 : UECS2222 : 3 : Major : Y1T1 : FICT : SE: 50

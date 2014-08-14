@@ -1,0 +1,4 @@
+UECS1111 :  Subject1 : : 4 : compulsory : Y1T1 Y2T1 : FES FCI : SE: donkey
+
+Test on this should fail because the coursework component is not a numeric value
+

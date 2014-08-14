@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vers1.StudyUnit">
+    <Position X="1.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAFAAAAgAAQAAgIAAAAAAAAACAgAIAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.UndergradUnit" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.PostgradUnit" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.UnitGrade" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAApAAAAAQIAAQAAAAAACAAAAAgAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.TrimesterPerformance" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAEAAQAAIAQAAAAAAIAQAAAAABAAAAAAAAAQ=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.MemberRecord" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQQAAAAAAAgAAAAAAEAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.StudentRecord" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAAAAAAAEAgAgAAAAAAAAAAAAAAAAgAAAAIAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.FileOperations" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAgQAIAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.SomeTestCases" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vers1.Vers1Program" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Vers1.Campuses" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAACAAAAAAAAAAAAAAAAAACAAAAAAAAQ=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vers1.UnitClassification" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAIAAAAMAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vers1.Trimesters" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAEAAAAA4AAAAAAAeAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vers1.TrimesterMonths" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vers1.Grades" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAgQAAAAAAIAAAAAAAAgAAAAAAAAAsAEAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vers1.Gender" Collapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vers1.AcademicStatus" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAACAAAAAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Vers1Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

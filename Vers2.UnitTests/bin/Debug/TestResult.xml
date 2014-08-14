@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\testcode\CompleteApplication\Vers2.UnitTests\bin\Debug\Vers2.UnitTests.dll" total="21" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-04-01" time="12:03:13">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\Program Files\NUnit 2.6.3\bin" machine-name="SPEEDMAN" user="User" user-domain="SPEEDMAN" />
+  <culture-info current-culture="en-MY" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\testcode\CompleteApplication\Vers2.UnitTests\bin\Debug\Vers2.UnitTests.dll" executed="True" result="Success" success="True" time="0.067" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Vers2" executed="True" result="Success" success="True" time="0.062" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="0.062" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="StudyUnitTests" executed="True" result="Success" success="True" time="0.061" asserts="0">
+                <results>
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2SameUnitCodes_1ErrorMessage" executed="True" result="Success" success="True" time="0.011" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2TypesOfRepeatedSameUnitCodes_2ErrorMessages" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith2TypesOfSameUnitCodes_2ErrorMessages" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith3TypesOfSameUnitCodes_3ErrorMessages" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWith4SameUnitCodes_1ErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithEmptyList_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithNullList_ErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithOneUnitCode_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckAllUnitCodesUnique_TestWithThreeUniqueUnitCodes_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_NoPrerequisites_NoException" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_OnePrerequisiteIdentical_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_OnePrerequisiteSatisfied_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_PrerequisiteNotSatisfiedForListOne_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_PrerequisiteNotSatisfiedForListTwo_Exception" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_TestWithEmptyList_NoErrorMessage" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_TestWithNullList_Exception" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.CheckPrerequisitesCorrect_TwoOrMorePrerequisiteSatisfied_NoException" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="Vers2.UnitTests.StudyUnitTests.Equals_TestWithDifferentObjectType" executed="True" result="Success" success="True" time="0.008" asserts="3" />
+                  <test-suite type="ParameterizedTest" name="Equals_TestWithSameObjectType" executed="True" result="Success" success="True" time="0.005" asserts="0">
+                    <results>
+                      <test-case name="Vers2.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;UECS8887&quot;,&quot;something else&quot;,10,compulsory,50,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Vers2.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;uECS8888&quot;,&quot;lucky subject&quot;,10,major,50,False)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Vers2.UnitTests.StudyUnitTests.Equals_TestWithSameObjectType(&quot;UECS8888&quot;,&quot;bad subject&quot;,15,elective,20,True)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

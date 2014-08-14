@@ -1,0 +1,29 @@
+Christopher Wong
+SE12345
+male
+chris@gmail.com
+01437283423
+SE
+120
+
+*TRIMESTER START*
+2014 Jan Y1T1
+
+UECS1111:  Subject1 : 36
+UECS2222 :  Subject2 : 55
+UECS3333 :  Subject3 : 76
+
+
+*TRIMESTER END*
+
+
+*TRIMESTER START*
+
+2014 May Y1T2
+
+UECS4444 :   Subject4   : 82
+UECS5555 :  Subject5 : 90
+UECS6666 :  Subject6 : 57
+
+*TRIMESTER END*
+
